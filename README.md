@@ -7,14 +7,14 @@ This version bypass the errors:
 ![HP Prodesk 400 G3 Desktop Mini Business PC](https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05367444.png)
 
 ## Hardware Specs:
-- CPU: Intel i5-7500T
-- GPU: Intel HD Graphics 630
-- WLAN: Intel ac 7265 Mini PCIe
+- CPU: Intel i5-6600T /Skylake
+- GPU: Intel HD Graphics 530
+- SSD: Liteon 256GB M.2 2280 PCIE SSD
+- WLAN: Broadcom BCM94352Z NGFF/M.2
 - Audio: Conexant Cx20632
 
 ## Known Issue:
-- Sleep not work, but display works at 4k@30hz
+- Sleep not work
 
 ## Notes for Elitedesk 800 G3 DM:
-- Remove USBToolBox.kext, UTBMap.kext use USBInjectAll.kext
-- Check aclid (may be changed)
+- Check aclid (Current 23, may be changed to 20,28)
