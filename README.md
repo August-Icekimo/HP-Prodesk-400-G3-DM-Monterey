@@ -1,4 +1,4 @@
-# HP-Prodesk-400-G3-DM-Big Sur
+# HP-Prodesk-400-G3-DM-Monterey
 
 HP Prodesk 400 G3 Desktop Mini (DM) - HP Elitedesk 800 G3 Desktop Mini (DM) - Opencore 1.0.3 - Montery
 This version bypass the errors:
